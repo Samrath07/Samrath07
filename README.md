@@ -115,18 +115,5 @@ Cut backend request overhead 30% across FinTech applications serving 10,000+ use
 - *An Analysis on Data Decluttering By Implementing Fuzzy and MD5 Algorithm* — 2nd International Conference on Computing for Science, Engineering & Artificial Intelligence
 - LLM-Guided Attention-Based ECG Classification — *under review, Springer*
 
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=default&hide_border=true&count_private=true"/>
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME&hide_border=true"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&hide_border=true"/>
-</p>
-
----
 
 <p align="center"><i>Open to AI Engineer / ML Engineer roles — always happy to talk about LLM systems, RAG, and production ML.</i></p>
